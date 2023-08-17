@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green_600">#81C784</color>
+    <color name="blue_600">#64B5F6</color>
+    <color name="blue_100">#B3E5FC</color>
+
+    <color name="currency_strength_0">#689F38</color>
+    <color name="currency_strength_1">#FBC02D</color>
+    <color name="currency_strength_2">#F57C00</color>
+    <color name="currency_strength_3">#D32F2F</color>
+</resources><!--Timoor Mujeeb - s1912918-->
